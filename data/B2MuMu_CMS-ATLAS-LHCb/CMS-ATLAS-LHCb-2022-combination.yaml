@@ -1,0 +1,34 @@
+BibCite: Greljo:2022jac
+BibEntry: '@article{Greljo:2022jac,
+    author = "Greljo, Admir and Salko, Jakub and Smolkovi\v{c}, Aleks and Stangl, Peter",
+    title = "{Rare b decays meet high-mass Drell-Yan}",
+    eprint = "2212.10497",
+    archivePrefix = "arXiv",
+    primaryClass = "hep-ph",
+    reportNumber = "CERN-TH-2023-037",
+    doi = "10.1007/JHEP05(2023)087",
+    journal = "JHEP",
+    volume = "05",
+    pages = "087",
+    year = "2023"
+}'
+DOI: 10.1007/JHEP05(2023)087
+FileName: CMS-ATLAS-LHCb.yaml
+Name: B2mumu_Br
+SubmissionYear: 2022
+PublicationYear: 2023
+Arxiv: 2212.10497
+ExperimentalDataYears: 2018,2021,2022
+Decay: "B -> mu mu"
+Kinematics: "ALL"
+HLAuthor: Cristian Sierra
+HLEmail: cristian.sierra@njnu.edu.cn
+HL_Type: HL_nDimGaussian
+TH2Path: "b2mumu_CMS"
+Observables:
+- ["BR_Bs2mumu", 3.36e-09, 0.28e-09]
+- ["BR_Bd2mumu",  0.42e-10, 0.54e-10]
+Correlation:
+- ["BR_Bs2mumu","BR_Bd2mumu"]
+- [1.0 , -0.18]
+- [-0.18 , 1.0]
