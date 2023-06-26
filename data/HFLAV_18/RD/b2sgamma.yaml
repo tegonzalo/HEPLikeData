@@ -1,44 +1,30 @@
-BibCite: Amhis:2016xyh
-BibEntry: '@article{Amhis:2016xyh,
-      author         = "Amhis, Y. and others",
-      title          = "{Averages of $b$-hadron, $c$-hadron, and $\tau$-lepton
-                        properties as of summer 2016}",
-      collaboration  = "HFLAV",
-      journal        = "Eur. Phys. J.",
-      volume         = "C77",
-      year           = "2017",
-      number         = "12",
-      pages          = "895",
-      doi            = "10.1140/epjc/s10052-017-5058-4",
-      eprint         = "1612.07233",
-      archivePrefix  = "arXiv",
-      primaryClass   = "hep-ex",
-      reportNumber   = "FERMILAB-PUB-16-611-ND",
-      SLACcitation   = "%%CITATION = ARXIV:1612.07233;%%"
-      }'
-DOI: 10.1140/epjc/s10052-017-5058-4
+BibCite: ParticleDataGroup:2022pth
+BibEntry: '@article{ParticleDataGroup:2022pth,
+    author = "Workman, R. L. and others",
+    collaboration = "Particle Data Group",
+    title = "{Review of Particle Physics}",
+    doi = "10.1093/ptep/ptac097",
+    journal = "PTEP",
+    volume = "2022",
+    pages = "083C01",
+    year = "2022"
+}'
+DOI: 10.1093/ptep/ptac097
 FileName: b2sgamma.yaml
 Name: b2sgamma_Br
-Source: HFLAV
-SubmissionYear: 2016
-PublicationYear: 2017
-Arxiv: 1612.07233
+Source: https://hflav-eos.web.cern.ch/hflav-eos/rare/Jan2023/new/BR_Badmix_Xs_gamma.html
+SubmissionYear: 2022
+PublicationYear: 2022
 Collaborations: HFLAV
 ExperimentalDataLumi: AVERAGE
 ExperimentalDataYears: AVERAGE
 Decay: "b -> s gamma"
 Kinematics: "Egamma>1.6"
-HLAuthor: Jihyun Bhom
-HLEmail: jihyun.bohm@cern.ch
+HLAuthor: Cristian Sierra
+HLEmail: cristian.sierra@njnu.edu.cn
 HL_Type: HL_Gaussian
 Observables:
-- ["BR_b2sgamma", 332.e-6, 15.e-6 ]
-
-
-
-
-
-
+- ["BR_b2sgamma", 3.49e-4, 0.19e-4 ]
 
 
 
