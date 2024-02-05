@@ -1,0 +1,31 @@
+BibCite: BELLE:2019xld,
+BibEntry: '@article{BELLE:2019xld,
+    author = "Choudhury, S. and others",
+    collaboration = "BELLE",
+    title = "{Test of lepton flavor universality and search for lepton flavor violation in $B \rightarrow K\ell \ell$ decays}",
+    eprint = "1908.01848",
+    archivePrefix = "arXiv",
+    primaryClass = "hep-ex",
+    reportNumber = "BELLE-CONF-1904, Belle Preprint 2020-11, KEK Preprint 2020-12",
+    doi = "10.1007/JHEP03(2021)105",
+    journal = "JHEP",
+    volume = "03",
+    pages = "105",
+    year = "2021"
+}'
+DOI: 10.1007/JHEP03(2021)105
+FileName: BELLE-CONF-1904-4_8.12.yaml
+Name: BdKee_Br_q2_4_8.12
+Source: Belle
+SubmissionYear: 2019
+PublicationYear: 2021
+Arxiv: 1908.01848
+Collaborations: Belle
+ExperimentalDataLumi: 711fb
+Decay: "B0 -> K0 e e"
+Kinematics: "q2>4 && q2<8.12"
+HLAuthor: Tomas Gonzalo
+HLEmail: tomas.gonzalo@kit.edu
+HL_Type: HL_BifurGaussian
+Observables:
+- ["Br", 0.52e-7, 0.21e-7, -0.17e-7, 0.02e-7, -0.02e-7]

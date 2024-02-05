@@ -1,0 +1,37 @@
+BibCite: LHCb:2021awg
+BibEntry: '@article{LHCb:2021awg,
+    author = "Aaij, Roel and others",
+    collaboration = "LHCb",
+    title = "{Measurement of the $B^0_s\to\mu^+\mu^-$ decay properties and search for the $B^0\to\mu^+\mu^-$ and $B^0_s\to\mu^+\mu^-\gamma$ decays}",
+    eprint = "2108.09283",
+    archivePrefix = "arXiv",
+    primaryClass = "hep-ex",
+    reportNumber = "CERN-EP-2021-133, LHCb-PAPER-2021-008",
+    doi = "10.1103/PhysRevD.105.012010",
+    journal = "Phys. Rev. D",
+    volume = "105",
+    number = "1",
+    pages = "012010",
+    year = "2022"
+}'
+DOI: 10.1103/PhysRevD.105.012010
+FileName: CERN-EP-2021-133.yaml
+Name: B2mumu_Br
+Source: LHCb
+SubmissionYear: 2021
+PublicationYear: 2022
+Arxiv: 2108.09283
+Collaborations: LHCb
+ExperimentalDataLumi: 9fb
+ExperimentalDataYears: 2015,2016,2017,2018
+Decay: "B -> mu mu"
+Kinematics: "ALL"
+HLAuthor: Tomas Gonzalo
+HLEmail: tomas.gonzalo@kit.edu
+HL_Type: HL_nDimLikelihood
+TextData: data/LHCb/RD/B2MuMu/histB2mumu_2021.dat
+Observables:
+- ["BR_Bs2mumu", 3.09e-9]
+- ["BR_Bd2mumu", 2.6e-10]
+
+

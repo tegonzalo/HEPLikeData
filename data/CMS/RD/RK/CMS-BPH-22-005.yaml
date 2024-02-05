@@ -1,0 +1,28 @@
+BibCite: CMS:2024syx
+BibEntry: '@article{CMS:2024syx,
+    author = "Hayrapetyan, Aram and others",
+    collaboration = "CMS",
+    title = "{Test of lepton flavor universality in B$^{\pm}$$\to$ K$^{\pm}\mu^+\mu^-$ and B$^{\pm}$$\to$ K$^{\pm}$e$^+$e$^-$ decays in proton-proton collisions at $\sqrt{s}$ = 13 TeV}",
+    eprint = "2401.07090",
+    archivePrefix = "arXiv",
+    primaryClass = "hep-ex",
+    reportNumber = "CMS-BPH-22-005, CERN-EP-2023-297",
+    month = "1",
+    year = "2024"
+}'
+DOI: TBA
+FileName: CMS-BPH-22-005.yaml
+Name: RK
+Source: hepdata.net/record/ins2747130
+SubmissionYear: 2024
+PublicationYear: TBD
+Arxiv: 2401.07090
+Collaborations: CMS
+ExperimentalDataLumi: 137fb
+ExperimentalDataYears: 2018
+Decay: RK
+Kinematics: "q2>1.1 && q2< 6"
+HLAuthor: Tomas Gonzalo
+HLEmail: tomas.gonzalo@kit.edu
+HL_Type: HL_ProfLikelihood
+TextData: data/CMS/RD/RK/RK.dat

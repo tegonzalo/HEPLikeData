@@ -1,0 +1,32 @@
+BibCite: LHCb:2014cxe,
+BibEntry: '@article{LHCb:2014cxe,
+    author = "Aaij, R. and others",
+    collaboration = "LHCb",
+    title = "{Differential branching fractions and isospin asymmetries of $B \to K^{(*)} \mu^+ \mu^-$ decays}",
+    eprint = "1403.8044",
+    archivePrefix = "arXiv",
+    primaryClass = "hep-ex",
+    reportNumber = "LHCB-PAPER-2014-006, CERN-PH-EP-2014-055",
+    doi = "10.1007/JHEP06(2014)133",
+    journal = "JHEP",
+    volume = "06",
+    pages = "133",
+    year = "2014"
+}'
+DOI: 10.1007/JHEP06(2014)133
+FileName: CERN-PH-EP-2014-055_q2_6_7.yaml
+Name: BKmumu_Br_q2_6_7
+Source: LHCb
+SubmissionYear: 2014
+PublicationYear: 2014
+Arxiv: 1403.8044
+Collaborations: LHCb
+ExperimentalDataLumi: 3fb
+ExperimentalDataYears: 2011, 2012
+Decay: "Bu -> K mu mu"
+Kinematics: "q2>6 && q2<7"
+HLAuthor: Tomas Gonzalo
+HLEmail: tomas.gonzalo@kit.edu
+HL_Type: HL_Gaussian
+Observables:
+- [ "Br",  24.5e-9 , 1.4e-9 , 1.2e-9 ]

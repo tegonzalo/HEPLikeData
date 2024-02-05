@@ -1,0 +1,36 @@
+BibCite: CMS:2022mgd
+BibEntry: '@article{CMS:2022mgd,
+    author = "Tumasyan, Armen and others",
+    collaboration = "CMS",
+    title = "{Measurement of the B$^0_\mathrm{S}$$\to$$\mu^+\mu^-$ decay properties and search for the B$^0$$\to$$\mu^+\mu^-$ decay in proton-proton collisions at $\sqrt{s}$ = 13 TeV}",
+    eprint = "2212.10311",
+    archivePrefix = "arXiv",
+    primaryClass = "hep-ex",
+    reportNumber = "CMS-BPH-21-006, CERN-EP-2022-270",
+    doi = "10.1016/j.physletb.2023.137955",
+    journal = "Phys. Lett. B",
+    volume = "842",
+    pages = "137955",
+    year = "2023"
+}'
+DOI: 10.1016/j.physletb.2023.137955
+FileName: CMS-BPH-21-006.yaml
+Name: B2mumu_Br
+Source: CMS
+SubmissionYear: 2022
+PublicationYear: 2023
+Arxiv: 2212.10311
+Collaborations: CMS
+ExperimentalDataLumi: 140b
+ExperimentalDataYears: 2016,2017,2018
+Decay: "B -> mu mu"
+Kinematics: "ALL"
+HLAuthor: Tomas Gonzalo
+HLEmail: tomas.gonzalo@kit.edu
+HL_Type: HL_nDimLikelihood
+TextData: data/CMS/RD/B2MuMu/B2mumu_CMS_2022.dat
+Observables:
+- ["BR_Bs2mumu", 3.83e-09]
+- ["BR_Bd2mumu",  0.37e-10]
+
+
