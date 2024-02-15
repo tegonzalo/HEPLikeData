@@ -1,0 +1,25 @@
+BibCite: Belle-II:2023esi
+BibEntry: '@article{Belle-II:2023esi,
+    author = "Adachi, I. and others",
+    collaboration = "Belle-II",
+    title = "{Evidence for $B^{+}\to K^{+}\nu\bar{\nu}$ Decays}",
+    eprint = "2311.14647",
+    archivePrefix = "arXiv",
+    primaryClass = "hep-ex",
+    reportNumber = "Belle II Preprint 2023-017, KEK Preprint 2023-35",
+    month = "11",
+    year = "2023"
+}'
+DOI: TBD
+FileName: KEK-2023-35.yaml
+Name: Bu2KNuNu
+Source: BelleII
+SubmissionYear: 2023
+PublicationYear: TBD
+Collaborations: BelleII
+ExperimentalDataLumi: 365fb
+Decay: "B_u+ -> K+ nu nu"
+HLAuthor: Tomas Gonzalo
+HLEmail: tomas.gonzalo@kit.edu
+HL_Type: HL_ProfLikelihood
+TextData: data/BelleII/Combined/Bu2KNuNu/KEK-2023-35.dat
