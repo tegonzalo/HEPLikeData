@@ -1,0 +1,35 @@
+BibCite: HFLAV:2022esi
+BibEntry: '@article{HFLAV:2022esi,
+    author = "Amhis, Yasmine Sara and others",
+    collaboration = "HFLAV",
+    title = "{Averages of b-hadron, c-hadron, and \ensuremath{\tau}-lepton properties as of 2021}",
+    eprint = "2206.07501",
+    archivePrefix = "arXiv",
+    primaryClass = "hep-ex",
+    doi = "10.1103/PhysRevD.107.052008",
+    journal = "Phys. Rev. D",
+    volume = "107",
+    number = "5",
+    pages = "052008",
+    year = "2023"
+}'
+DOI: 10.1103/PhysRevD.107.052008
+FileName: Delta_MBs.yaml
+Name: Delta_MBs
+Source: HFLAV
+SubmissionYear: 2022
+PublicationYear: 2022
+Collaborations: HFLAV
+HLAuthor: Tomas Gonzalo
+HLEmail: tomas.gonzalo@kit.edu
+HL_Type: HL_Gaussian
+Observables:
+- ["Delta_MBs", 17.765, 0.004, 0.004]
+
+
+
+
+
+
+
+
